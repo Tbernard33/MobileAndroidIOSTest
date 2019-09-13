@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4FE7BCE2-28DE-F821-CAF6-AB03DB17C369}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BasicShit.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BasicShit.cs" Line="12" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MobileAndroidIOSTest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="BasicShit.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="949f9cd8-fa61-4276-88cd-59a58b875e6d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,24 @@
+{
+	"AchievementIDs":[
+		{
+			"InternalID":"ButtonPushed",
+			"AppleID":"buttonpushed",
+			"GoogleID":"CgkI5LKOhM8MEAIQAw"
+		}
+	],
+	"LeaderboardIDs":[
+		{
+			"InternalID":"GlobalRank",
+			"AppleID":"globalrank",
+			"GoogleID":"CgkI5LKOhM8MEAIQAg"
+		}
+	],
+	"CloudVariables":[],
+	"AppleSupported":true,
+	"GoogleSupported":true,
+	"GoogleAppID":"433531885924",
+	"GoogleSetupRun":true,
+	"DebugModeEnabled":true,
+	"Version":"2.6.8",
+	"SettingsLocation":"0"
+}

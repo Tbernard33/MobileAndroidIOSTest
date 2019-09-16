@@ -9,8 +9,16 @@ public class BasicShit : MonoBehaviour
 
     public void ChangeUIColor()
     {
-        Debug.Log("Button clicked !");
-        if(m_UiColor != null)
+#if UNITY_ANDROID 
+        Debug.Log("Button clicked on Android !");
+#endif
+#if UNITY_IOS
+        Debug.Log("Button clicked on IOS !");
+#endif
+#if UNITY_EDITOR
+        Debug.Log("Button clicked on Editor !");
+#endif
+        if (m_UiColor != null)
         {
             if (m_UiColor.color == Color.red)
             {

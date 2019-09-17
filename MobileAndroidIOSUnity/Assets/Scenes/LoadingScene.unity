@@ -254,7 +254,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f71005778720c3546826fd5599bb4b4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cloudOnceEvent: 1
+  cloudOnceEvent: 0
   sceneName: MainScene
   loadAdditive: 0
   loadAsync: 0

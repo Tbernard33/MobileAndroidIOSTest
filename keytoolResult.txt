@@ -1,0 +1,20 @@
+C:\Program Files (x86)\Java\jre1.8.0_221\bin>keytool -list -v -keystore "C:\Users\Thomas\Documents\GitHub\MobileAndroidIOSTest\testKey.keystore" -alias key1 -storepass ********* -keypass ********* --> usual global lucine pwd
+Nom d'alias : key1
+Date de création : 17 sept. 2019
+Type d'entrée : PrivateKeyEntry
+Longueur de chaîne du certificat : 1
+Certificat[1]:
+Propriétaire : C=FR, ST=FRANCE, L=Bordeaux, O=Lucine, CN=Thomas BERNARD
+Emetteur : C=FR, ST=FRANCE, L=Bordeaux, O=Lucine, CN=Thomas BERNARD
+Numéro de série : 9d638b4
+Valide du : Tue Sep 17 10:01:13 CEST 2019 au : Wed Sep 04 10:01:13 CEST 2069
+Empreintes du certificat :
+         MD5 : 55:E7:32:40:EB:4B:CD:1C:BA:C1:86:07:23:C0:F3:38
+         SHA1 : 90:0C:40:02:F9:AA:7A:CE:5D:96:3C:BE:CE:A1:ED:13:62:76:08:18
+         SHA256 : 5D:D8:FD:5D:85:61:3E:B3:55:71:24:29:F6:63:D1:01:24:E8:AB:63:67:AC:1A:16:24:1C:2D:38:12:AD:40:8D
+Nom de l'algorithme de signature : SHA1withRSA
+Algorithme de clé publique du sujet : Clé RSA 2048 bits
+Version : 3
+
+Warning:
+Le fichier de clés JKS utilise un format propriétaire. Il est recommandé de migrer vers PKCS12, qui est un format standard de l'industrie en utilisant "keytool -importkeystore -srckeystore C:\Users\Thomas\Documents\GitHub\MobileAndroidIOSTest\testKey.keystore -destkeystore C:\Users\Thomas\Documents\GitHub\MobileAndroidIOSTest\testKey.keystore -deststoretype pkcs12".

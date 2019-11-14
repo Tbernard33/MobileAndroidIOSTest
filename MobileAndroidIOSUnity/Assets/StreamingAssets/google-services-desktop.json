@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "245630552104-q4ludfdf5qtcj6dvnm0166apl3rt012f.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdfuy0XzcQtO_kit1TFol6VYnwIDmYpCQ"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:245630552104:ios:746849f3f57f953f928d1d", 
+        "android_client_info": {
+          "package_name": "com.lucine.mobileandroidiostest"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "mobileandroidios-test-253114.appspot.com", 
+    "project_id": "mobileandroidios-test-253114", 
+    "firebase_url": "https://mobileandroidios-test-253114.firebaseio.com", 
+    "project_number": "245630552104"
+  }
+}

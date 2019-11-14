@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "245630552104",
+    "firebase_url": "https://mobileandroidios-test-253114.firebaseio.com",
+    "project_id": "mobileandroidios-test-253114",
+    "storage_bucket": "mobileandroidios-test-253114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245630552104:android:cce5735f45ffe7ce928d1d",
+        "android_client_info": {
+          "package_name": "com.lucine.mobileandroidiostest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245630552104-9jsffqaim1q7h0vmcjv3nekd5vvl0jg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHVbkVoe3dYvvBtJdZKQpSmQaNRZWDt_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245630552104-9jsffqaim1q7h0vmcjv3nekd5vvl0jg6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "245630552104-q4ludfdf5qtcj6dvnm0166apl3rt012f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lucine.mobileandroidiostest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
